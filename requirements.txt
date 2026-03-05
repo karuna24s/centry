@@ -1,0 +1,9 @@
+# Purpose: Your Python "Gemfile".
+
+
+fastapi
+uvicorn
+anthropic
+python-dotenv
+pydantic
+requests
